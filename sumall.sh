@@ -9,4 +9,4 @@ for I in $ARGS; do
     ((SUM+=I))
 done 
 
-echo $SUM
+echo "the sum of those numbers are: "$SUM
